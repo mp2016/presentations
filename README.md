@@ -2,6 +2,8 @@
 
 # Sources
 
+Please send a pull request to improve this part if you have any suggestions, e.g., adding links or items.
+
 ## Theory
 
 - Choreographies:
