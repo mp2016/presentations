@@ -4,14 +4,21 @@
 
 Please send a pull request to improve this part if you have any suggestions, e.g., adding links or items.
 
+[DBLP](http://dblp.uni-trier.de/) is a really good website to look for
+papers by a specific author (and papers in general).
+
 ## Theory
 
 - Choreographies:
   * Structured Communication-Centered Programming for Web Services
   * Multiparty asynchronous session types
-  * Choreographic Programming
+  * [Choreographic Programming](http://www.fabriziomontesi.com/files/choreographic_programming.pdf)
   * Compositional Choreographies
   * Applied Choreographies
+- Formal Logics for communicating systems:
+  * Propositions as Sessions
+  * Choreographies, Logically
+  * Multiparty Session Types as Coherence Proofs
 - Workflow patterns (see also the website)
 
 ## Models
@@ -20,8 +27,9 @@ Please send a pull request to improve this part if you have any suggestions, e.g
 
 ## Languages
 
+- BPMN
 - Choreographies:
-  * WS-CDL, 2006
+  * WS-CDL
   * [Chor Programming Language](http://www.chor-lang.org/)
 - Erlang (and Erlang/OTP)
 - WS-BPEL (Language for implementing service orchestrators)
@@ -29,6 +37,8 @@ Please send a pull request to improve this part if you have any suggestions, e.g
 
 ## Frameworks
 
+- Docker and orchestration tools in/for Docker
+- node.js
 - RxJava
 - Vert.x
 - Scribble
@@ -37,7 +47,7 @@ Please send a pull request to improve this part if you have any suggestions, e.g
 ## Web
 
 - Hop, a Language for Programming the Web 2.0
-- Process-aware web programming with Jolie (Practical)
+- Process-aware web programming with Jolie
 - Web Services Foundations (any book chapter, contains one about REST)
 
 
