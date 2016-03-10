@@ -53,15 +53,15 @@ papers by a specific author (and papers in general).
 
 # Topics
 
-Web Applications
-REST
-E-Commerce
-Business Processes
-Big Data: Velocity, Variety, Volume
-Cloud Computing
-Online Videogames
-Performance
-Theory
-Models
-Languages
-Specification
+- Web Applications
+- REST
+- E-Commerce
+- Business Processes
+- Big Data: Velocity, Variety, Volume
+- Cloud Computing
+- Online Videogames
+- Performance
+- Theory
+- Models
+- Languages
+- Specification
