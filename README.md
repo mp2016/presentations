@@ -8,28 +8,28 @@ Date 3 is the lecture after date 2.
 And so on and so forth.
 
 | Date | Name | Topic |
----
-| 1 | Anders Busch |
-| 2 | Andrei Gagu |
-| 3 | Athanasios Chalmoukis |
-| 4 | Dan Sebastian Thrane |
-| 5 | Daniel Santonja Merino |
-| 6 | David Mortan Grøne Hammer |
-| 7 | Deyan Angelov Yordanov |
-| 8 | Frederik Hertzum |
-| 9 | Jacob Haubjerg Madsen |
-| 10 | Jakob Rytter Hedelin |
-| 11 | Janine Weber |
-| 12 | Jesper Daugaard Thingholm |
-| 13 | Jonas Malte Hinchely |
-| 14 | Lars Thomasen |
-| 15 | Madrigal Nabil Totayo |
-| 16 | Martin Pedersen |
-| 17 | Martin Stig Bondesen |
-| 18 | Mathias Wulff Svendsen |
-| 19 | Peter Gottlieb |
-| 20 | Phong Anh Tran |
-| 21 | Thomas Gravgaard Hansen |
+| ---- | ---- | ----- |
+| 1 | Anders Busch ||
+| 2 | Andrei Gagu ||
+| 3 | Athanasios Chalmoukis ||
+| 4 | Dan Sebastian Thrane ||
+| 5 | Daniel Santonja Merino ||
+| 6 | David Mortan Grøne Hammer ||
+| 7 | Deyan Angelov Yordanov ||
+| 8 | Frederik Hertzum ||
+| 9 | Jacob Haubjerg Madsen ||
+| 10 | Jakob Rytter Hedelin ||
+| 11 | Janine Weber ||
+| 12 | Jesper Daugaard Thingholm ||
+| 13 | Jonas Malte Hinchely ||
+| 14 | Lars Thomasen ||
+| 15 | Madrigal Nabil Totayo ||
+| 16 | Martin Pedersen ||
+| 17 | Martin Stig Bondesen ||
+| 18 | Mathias Wulff Svendsen ||
+| 19 | Peter Gottlieb ||
+| 20 | Phong Anh Tran ||
+| 21 | Thomas Gravgaard Hansen ||
 
 # Sources
 
