@@ -14,7 +14,7 @@ And so on and so forth.
 |    3 | Athanasios Chalmoukis     |       |
 |    4 | Dan Sebastian Thrane      |       |
 |    5 | Daniel Santonja Merino    |       |
-|    6 | David Mortan Grøne Hammer |       |
+|    6 | Martin Pedersen           |       |
 |    7 | Deyan Angelov Yordanov    |       |
 |    8 | Frederik Hertzum          |       |
 |    9 | Jacob Haubjerg Madsen     |       |
@@ -24,7 +24,7 @@ And so on and so forth.
 |   13 | Jonas Malte Hinchely      |       |
 |   14 | Lars Thomasen             |       |
 |   15 | Madrigal Nabil Totayo     |       |
-|   16 | Martin Pedersen           |       |
+|   16 | David Mortan Grøne Hammer |       |
 |   17 | Martin Stig Bondesen      |       |
 |   18 | Mathias Wulff Svendsen    |       |
 |   19 | Peter Gottlieb            |       |
