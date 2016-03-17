@@ -1,35 +1,33 @@
 # Presentation Schedule
 
-21 people, 20 lectures from March 31.
+We have 21 people who have to present, and presentations start on March 31st.
+That means that we have 20 lectures for all presentations. Hence, we have at least
+one day where we will have two presentations.
 
-March 31st is Date 1.
-Date 2 is the lecture after that.
-Date 3 is the lecture after date 2.
-And so on and so forth.
 
-| Date | Name                      | Topic |
-| ---- | ------------------------- | ----- |
-|    1 | Anders Busch              |       |
-|    2 | Andrei Gagu               |       |
-|    3 | Athanasios Chalmoukis     |       |
-|    4 | Dan Sebastian Thrane      |       |
-|    5 | Daniel Santonja Merino    |       |
-|    6 | Martin Pedersen           |       |
-|    7 | Deyan Angelov Yordanov    |       |
-|    8 | Frederik Hertzum          |       |
-|    9 | Jacob Haubjerg Madsen     |       |
-|   10 | Jakob Rytter Hedelin      |       |
-|   11 | Janine Weber              |       |
-|   12 | Jesper Daugaard Thingholm |       |
-|   13 | Jonas Malte Hinchely      |       |
-|   14 | Lars Thomasen             |       |
-|   15 | Madrigal Nabil Totayo     |       |
-|   16 | David Mortan Grøne Hammer |       |
-|   17 | Martin Stig Bondesen      |       |
-|   18 | Mathias Wulff Svendsen    |       |
-|   19 | Peter Gottlieb            |       |
-|   20 | Phong Anh Tran            |       |
-|   21 | Thomas Gravgaard Hansen   |       |
+|        Date | Name                      | Topic |
+| ----------- | ------------------------- | ----- |
+|  March 31st | Anders Busch              |       |
+|   April 1st | Andrei Gagu               |       |
+|   April 4th | Athanasios Chalmoukis     |       |
+|   April 7th | Dan Sebastian Thrane      |       |
+|  April 11th | Daniel Santonja Merino    |       |
+|  April 14th | Martin Pedersen           |       |
+|  April 19th | Deyan Angelov Yordanov    |       |
+|  April 21st | Frederik Hertzum          |       |
+|  April 25th | Jacob Haubjerg Madsen     |       |
+|  April 28th | Jakob Rytter Hedelin      |       |
+|     May 2nd | Janine Weber              |       |
+|     May 3rd | Jesper Daugaard Thingholm |       |
+|    May 10th | Jonas Malte Hinchely      |       |
+|    May 12th | Lars Thomasen             |       |
+|    May 17th | Madrigal Nabil Totayo     |       |
+|    May 19th | David Mortan Grøne Hammer |       |
+|    May 24th | Martin Stig Bondesen      |       |
+|    May 26th | Mathias Wulff Svendsen    |       |
+|    May 31st | Peter Gottlieb            |       |
+|    June 2nd | Phong Anh Tran            |       |
+|    June 2nd | Thomas Gravgaard Hansen   |       |
 
 # Sources
 
