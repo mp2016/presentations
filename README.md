@@ -7,7 +7,7 @@ one day where we will have two presentations.
 
 |        Date | Name                      | Topic |
 | ----------- | ------------------------- | ----- |
-|  March 31st | Anders Busch              |       |
+|  March 31st | Anders Busch              | [node.js](http://nodejs.org) |
 |   April 1st | Andrei Gagu               |       |
 |   April 4th | Athanasios Chalmoukis     |       |
 |   April 7th | Dan Sebastian Thrane      |       |
