@@ -22,7 +22,7 @@ one day where we will have two presentations.
 |    May 10th | Jonas Malte Hinchely      |       |
 |    May 12th | Lars Thomasen             |       |
 |    May 17th | Madrigal Nabil Totayo     |       |
-|    May 19th | David Mortan Grøne Hammer |       |
+|    May 19th | David Mortan Grøne Hammer | Multiparty Session C |
 |    May 24th | Martin Stig Bondesen      |       |
 |    May 26th | Mathias Wulff Svendsen    |       |
 |    May 31st | Peter Gottlieb            |       |
