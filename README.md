@@ -12,7 +12,7 @@ one day where we will have two presentations.
 |   April 4th | Athanasios Chalmoukis     |       |
 |   April 7th | Dan Sebastian Thrane      |       |
 |  April 11th | Daniel Santonja Merino    |       |
-|  April 14th | Martin Pedersen           |       |
+|  April 14th | Martin Pedersen           | [RAFT Algorithm](https://raft.github.io/) |
 |  April 19th | Deyan Angelov Yordanov    |       |
 |  April 21st | Frederik Hertzum          |       |
 |  April 25th | Jacob Haubjerg Madsen     |       |
