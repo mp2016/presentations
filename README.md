@@ -9,7 +9,7 @@ one day where we will have two presentations.
 | ----------- | ------------------------- | ----- |
 |  March 31st | Anders Busch              | [node.js](http://nodejs.org) |
 |   April 1st | Andrei Gagu               |       |
-|   April 4th | Athanasios Chalmoukis     |       |
+|   April 4th | Athanasios Chalmoukis     | Dropped out?      |
 |   April 7th | Dan Sebastian Thrane      | [RxJava](http://reactivex.io/)      |
 |  April 11th | Daniel Santonja Merino    |       |
 |  April 14th | Martin Pedersen           | [RAFT Algorithm](https://raft.github.io/) |
