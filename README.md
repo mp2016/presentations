@@ -11,7 +11,7 @@ one day where we will have two presentations.
 |   April 1st | Andrei Gagu               | [http://www.ibmbigdatahub.com/blog/deploying-analytics-microservices-cloud](http://www.ibmbigdatahub.com/blog/deploying-analytics-microservices-cloud)      |
 |   April 4th | Athanasios Chalmoukis     | Dropped out?      |
 |   April 7th | Dan Sebastian Thrane      | [RxJava](http://reactivex.io/)      |
-|  April 11th | Daniel Santonja Merino    |       |
+|  April 11th | Daniel Santonja Merino    | Dropped out?      |
 |  April 14th | Martin Pedersen           | [RAFT Algorithm](https://raft.github.io/) |
 |  April 19th | Deyan Angelov Yordanov    |       |
 |  April 21st | Frederik Hertzum          |       |
