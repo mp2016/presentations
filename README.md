@@ -19,7 +19,7 @@ one day where we will have two presentations.
 |  April 28th | Jakob Rytter Hedelin      |       |
 |     May 2nd | Janine Weber              |       |
 |     May 3rd | Jesper Daugaard Thingholm |       |
-|    May 10th | Jonas Malte Hinchely      |       |
+|    May 10th | Jonas Malte Hinchely      |  [Vert.x]  (http://www.vertx.io)   |
 |    May 12th | Lars Thomasen             |       |
 |    May 17th | Madrigal Nabil Totayo     |       |
 |    May 19th | David Mortan Grøne Hammer | Multiparty Session C |
