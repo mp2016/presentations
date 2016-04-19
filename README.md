@@ -13,7 +13,7 @@ one day where we will have two presentations.
 |   April 7th | Dan Sebastian Thrane      | [RxJava](http://reactivex.io/)      |
 |  April 11th | Daniel Santonja Merino    | Dropped out?      |
 |  April 14th | Martin Pedersen           | [RAFT Algorithm](https://raft.github.io/) |
-|  April 19th | Deyan Angelov Yordanov    |       |
+|  April 19th | Deyan Angelov Yordanov    | Dropped out?      |
 |  April 21st | Frederik Hertzum          |       |
 |  April 25th | Jonas Malte Hinchely      | [Vert.x](http://www.vertx.io) |
 |  April 28th | Jakob Rytter Hedelin      |       |
