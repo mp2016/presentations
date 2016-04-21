@@ -21,7 +21,7 @@ one day where we will have two presentations.
 |     May 3rd | Jesper Daugaard Thingholm |       |
 |    May 10th | Jacob Haubjerg Madsen     |       |
 |    May 12th | Lars Thomasen             |       |
-|    May 17th | Madrigal Nabil Totayo     |       |
+|    May 17th | Madrigal Nabil Totayo     | REST  |
 |    May 19th | David Mortan Grøne Hammer | Multiparty Session C |
 |    May 24th | Martin Stig Bondesen      |       |
 |    May 26th | Mathias Wulff Svendsen    |       |
