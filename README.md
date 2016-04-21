@@ -15,9 +15,9 @@ one day where we will have two presentations.
 |  April 14th | Martin Pedersen           | [RAFT Algorithm](https://raft.github.io/) |
 |  April 19th | Deyan Angelov Yordanov    | MIA      |
 |  April 21st | Frederik Hertzum          | MIA      |
-|  April 25th | Jonas Malte Hinchely      | [Vert.x](http://www.vertx.io) |
-|  April 28th | Jakob Rytter Hedelin      |       |
+|     May 2nd | Jonas Malte Hinchely      | [Vert.x](http://www.vertx.io) |
 |     May 2nd | Janine Weber              |       |
+|     May 3rd | Jakob Rytter Hedelin      |       |
 |     May 3rd | Jesper Daugaard Thingholm |       |
 |    May 10th | Jacob Haubjerg Madsen     |       |
 |    May 12th | Lars Thomasen             |       |
