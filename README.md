@@ -17,8 +17,8 @@ one day where we will have two presentations.
 |  April 21st | Frederik Hertzum          | MIA      |
 |     May 2nd | Jonas Malte Hinchely      | [Vert.x](http://www.vertx.io) |
 |     May 2nd | Janine Weber              | SOA and Web Services: New Technologies, New Standards - New Attacks (paper) |
-|     May 3rd | Jakob Rytter Hedelin      |       |
-|     May 3rd | Jesper Daugaard Thingholm |       |
+|     May 3rd | Jakob Rytter Hedelin      | MIA   |
+|     May 3rd | Jesper Daugaard Thingholm | MIA   |
 |    May 10th | Jacob Haubjerg Madsen     |       |
 |    May 12th | Lars Thomasen             | Web Services Security (WS-Security)  |
 |    May 17th | Madrigal Nabil Totayo     | REST  |
