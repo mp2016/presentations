@@ -20,7 +20,7 @@ one day where we will have two presentations.
 |     May 3rd | Jakob Rytter Hedelin      |       |
 |     May 3rd | Jesper Daugaard Thingholm |       |
 |    May 10th | Jacob Haubjerg Madsen     |       |
-|    May 12th | Lars Thomasen             | Web Services Security (WS-Security)  |
+|    May 12th | Lars Thomasen             | [Netty](http://netty.io/wiki/user-guide-for-5.x.html)  |
 |    May 17th | Madrigal Nabil Totayo     | REST  |
 |    May 19th | David Mortan Grøne Hammer | Multiparty Session C |
 |    May 24th | Martin Stig Bondesen      |       |
@@ -79,6 +79,7 @@ papers by a specific author (and papers in general).
 - Netty.
 - Vert.x.
 - [Scribble](http://www.scribble.org/)
+- [Go](https://revel.github.io/) 
 
 ## Games
 
