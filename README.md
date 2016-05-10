@@ -19,7 +19,7 @@ one day where we will have two presentations.
 |     May 2nd | Janine Weber              | SOA and Web Services: New Technologies, New Standards - New Attacks (paper) |
 |     May 3rd | Jakob Rytter Hedelin      | MIA   |
 |     May 3rd | Jesper Daugaard Thingholm | MIA   |
-|    May 10th | Jacob Haubjerg Madsen     |       |
+|    May 10th | Jacob Haubjerg Madsen     | [Migrating an mmo back end to the cloud](http://dl.acm.org.proxy1-bib.sdu.dk:2048/citation.cfm?id=2577393&CFID=781548586&CFTOKEN=84633762)     |
 |    May 12th | Lars Thomasen             | [Netty](http://netty.io/wiki/user-guide-for-5.x.html)  |
 |    May 17th | Madrigal Nabil Totayo     | REST  |
 |    May 19th | David Mortan Grøne Hammer | Multiparty Session C |
