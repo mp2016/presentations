@@ -23,11 +23,11 @@ one day where we will have two presentations.
 |    May 12th | Lars Thomasen             | [Netty](http://netty.io/wiki/user-guide-for-5.x.html)  |
 |    May 17th | Madrigal Nabil Totayo     | REST  |
 |    May 19th | David Mortan Grøne Hammer | Multiparty Session C |
-|    May 24th | Martin Stig Bondesen      |       |
-|    May 26th | Mathias Wulff Svendsen    |       |
+|    May 24th | Martin Stig Bondesen      | [Microservices article by ThoughtWorks](http://martinfowler.com/articles/microservices.html)      |
+|    May 26th | Mathias Wulff Svendsen    | MIA   |
 |    May 31st | Peter Gottlieb            |       |
-|    June 2nd | Phong Anh Tran            |       |
-|    June 2nd | Thomas Gravgaard Hansen   |       |
+|    May 31st | Phong Anh Tran            |       |
+|    May 31st | Thomas Gravgaard Hansen   |       |
 
 # Sources
 
