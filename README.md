@@ -25,9 +25,9 @@ one day where we will have two presentations.
 |    May 19th | David Mortan Grøne Hammer | Multiparty Session C |
 |    May 24th | Martin Stig Bondesen      | [Microservices article by ThoughtWorks](http://martinfowler.com/articles/microservices.html)      |
 |    May 26th | Mathias Wulff Svendsen    | MIA   |
-|    May 31st | Peter Gottlieb            |       |
-|    May 31st | Phong Anh Tran            |       |
-|    May 31st | Thomas Gravgaard Hansen   |       |
+|    May 31st | Phong Anh Tran            | Revel |
+|    May 31st | Thomas Gravgaard Hansen   | Rust  |
+|    Jun 2nd | Peter Gottlieb             |       |
 
 # Sources
 
