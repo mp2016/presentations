@@ -27,7 +27,7 @@ one day where we will have two presentations.
 |    May 26th | Mathias Wulff Svendsen    | MIA   |
 |    May 31st | Phong Anh Tran            | Revel |
 |    May 31st | Thomas Gravgaard Hansen   | Rust  |
-|    Jun 2nd | Peter Gottlieb             | MIA   |
+|    Jun 2nd | Peter Gottlieb             | OK   |
 
 # Sources
 
